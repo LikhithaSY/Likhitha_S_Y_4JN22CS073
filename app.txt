@@ -1,0 +1,10 @@
+// script.js
+document.addEventListener('DOMContentLoaded', function () {
+    const btn = document.createElement('button');
+    btn.innerText = "Click Me for More Info";
+    document.body.appendChild(btn);
+
+    btn.addEventListener('click', function () {
+        alert("Here is more information about my career!");
+    });
+});

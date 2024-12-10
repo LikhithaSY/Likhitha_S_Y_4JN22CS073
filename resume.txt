@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="resume.html">Resume</a></li>
+                <li><a href="bio.html">Bio-data</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="resume">
+        <h2>My Resume</h2>
+        <div class="experience">
+            <h3>Experience</h3>
+            <ul>
+                <li><strong>Software Engineer</strong> at XYZ Corp (2020 - Present)</li>
+                <li><strong>Junior Developer</strong> at ABC Ltd. (2018 - 2020)</li>
+            </ul>
+        </div>
+
+        <div class="education">
+            <h3>Education</h3>
+            <ul>
+                <li><strong>Bachelor of Science in Computer Science</strong>, University A (2014 - 2018)</li>
+            </ul>
+        </div>
+
+        <div class="skills">
+            <h3>Skills</h3>
+            <ul>
+                <li>JavaScript</li>
+                <li>Python</li>
+                <li>HTML & CSS</li>
+            </ul>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2024 My Portfolio</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

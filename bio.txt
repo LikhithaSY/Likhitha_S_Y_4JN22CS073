@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Bio-data</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>My Bio-data</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="resume.html">Resume</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="bio">
+        <h2>Personal Information</h2>
+        <p>Name: John Doe</p>
+        <p>Date of Birth: January 1, 1995</p>
+        <p>Email: johndoe@example.com</p>
+        <p>Phone: +1 (234) 567-890</p>
+
+        <h2>Address</h2>
+        <p>123 Main Street, City, Country</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 John Doe</p>
+    </footer>
+</body>
+</html>
